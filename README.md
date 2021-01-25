@@ -4,5 +4,6 @@ Completed exercises and projects from the books and courses recommended by https
 <pre>
 Programming:            Concepts, Techniques, and Models of Computer Programming  concepts-techniques-models  
 Computer Architecture:  Computer Systems: A Programmer's Perspective              cs-app               
-Computer Networking:    Computer Networking: A Top Down Approach                  computer-networking              
+Computer Networking:    Computer Networking: A Top Down Approach                  computer-networking   
+Operating Systems:      Operating Systems: Three Easy Pieces                      operating-systems
 </pre>
